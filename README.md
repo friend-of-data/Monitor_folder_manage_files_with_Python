@@ -1,4 +1,4 @@
-# Monitor folder and manage files using Python
+# Monitor folder and manage files with Python
 
 Oftentimes, different teams will collaborate in the same folder on cloud. So it is efficient to monitor the folder and take relevant actions automatically.
 
