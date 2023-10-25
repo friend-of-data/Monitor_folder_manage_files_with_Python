@@ -11,3 +11,5 @@ Specifically, these files will be moved to the destination folder ('path_to_dest
 In addition, one can also choose to monitor the folder all the time or with a time interval, eg. every 15 minutes, which makes it more flexible and saves computation power.
 
 Of course, some more functionalities could be added to make the code more powerful and versatile and not only constrained to only moving or converting files.
+
+P.S. the code could also be saved as .py file and run directly using cmd prompt.
