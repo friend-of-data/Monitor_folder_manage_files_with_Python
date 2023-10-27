@@ -12,4 +12,8 @@ In addition, one can also choose to monitor the folder all the time or with a ti
 
 Of course, some more functionalities could be added to make the code more powerful and versatile and not only constrained to only moving or converting files.
 
+More use cases could be:
+* perform specific operations only on the first working day of the month
+* ask the user for input and based on returned value to perform differnt operations
+
 P.S. the code could also be saved as .py file and run directly using cmd prompt.
